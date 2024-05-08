@@ -7,7 +7,6 @@ C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS
 Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
-//*Aluna: Júlia Barroso Vieira
 //calculadora de IMC
 #include <stdio.h>
 
